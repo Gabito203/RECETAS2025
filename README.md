@@ -1,16 +1,16 @@
-## 1. 🥞 Panqueques Esponjosos
+# 📌 Carta de Presentación
 
-**Ingredientes:**
-- 1 taza de harina
-- 2 cucharadas de azúcar
-- 1 huevo
-- 1 taza de leche
-- 2 cucharadas de mantequilla derretida
-- 1 cucharadita de polvo de hornear
-- 1 pizca de sal
+Hola, mi nombre es **Gabriela Zapata** y vivo en **Tingo María, Perú**.  
+Este proyecto de recetario ha sido creado con mucho cariño en el año **2025**.
 
-**Preparación:**
-1. Mezcla los ingredientes secos en un tazón.
-2. Agrega el huevo, la leche y la mantequilla derretida.
-3. Bate hasta obtener una mezcla homogénea.
-4. Cocina porciones en una sartén caliente hasta dorar por ambos lados.
+La cocina es una forma de expresión y también una tradición que quiero preservar. A través de este repositorio, comparto recetas caseras que he preparado o aprendido a lo largo del tiempo. Cada receta refleja un poco de mi experiencia, mis gustos y mi identidad cultural.
+
+El objetivo de este recetario es brindar ideas prácticas, accesibles y sabrosas para cocinar en casa. Además, está escrito en formato Markdown para que sea fácil de leer, clonar y editar por quien lo desee.
+
+Gracias por visitar este proyecto.  
+Espero que encuentres aquí inspiración para tu cocina diaria. 🍲
+
+Con aprecio,  
+**Gabriela Zapata**  
+_Tingo María, 2025_
+
