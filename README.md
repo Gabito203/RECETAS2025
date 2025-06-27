@@ -1,0 +1,16 @@
+## 1. 🥞 Panqueques Esponjosos
+
+**Ingredientes:**
+- 1 taza de harina
+- 2 cucharadas de azúcar
+- 1 huevo
+- 1 taza de leche
+- 2 cucharadas de mantequilla derretida
+- 1 cucharadita de polvo de hornear
+- 1 pizca de sal
+
+**Preparación:**
+1. Mezcla los ingredientes secos en un tazón.
+2. Agrega el huevo, la leche y la mantequilla derretida.
+3. Bate hasta obtener una mezcla homogénea.
+4. Cocina porciones en una sartén caliente hasta dorar por ambos lados.
